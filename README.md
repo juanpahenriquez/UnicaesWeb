@@ -19,7 +19,7 @@ Asi se mira el apartado del pensum
 <img width="1812" height="882" alt="image" src="https://github.com/user-attachments/assets/52601e05-36f1-41b5-832e-391d215abb87" />
 El apartado de Inversion
 <img width="1853" height="851" alt="image" src="https://github.com/user-attachments/assets/deca9abc-2e0e-4e72-916b-02d0304ac8f7" />
-Aqui a sido utilizado ckEditor
+Aqui ha sido utilizado ckEditor
 <img width="1888" height="901" alt="image" src="https://github.com/user-attachments/assets/4c601999-adba-4371-9abe-a9fd76e7ccbf" />
 
 
